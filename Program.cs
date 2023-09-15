@@ -12,6 +12,9 @@
 
             PrimeNumber primeNumber = new PrimeNumber();
             primeNumber.checkPrime(5);
+
+            NumberReverse numberReverse = new NumberReverse();
+            numberReverse.revNum(425);
         }
     }
 }
