@@ -15,6 +15,9 @@
 
             NumberReverse numberReverse = new NumberReverse();
             numberReverse.revNum(425);
+
+            CoupenNumber coupenNumber = new CoupenNumber();
+            coupenNumber.coupenNumbers();
         }
     }
 }
